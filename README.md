@@ -167,6 +167,7 @@ This project is licensed under the Apache 2.0 License. See [LICENSE](LICENSE) fo
 - Author: yuvan venkat
 - GitHub: (https://github.com/yuvan-git-tech/Enhancing-Road-Safety-with-AI-Driven-Traffic-Accident-Analysis-and-Prediction/edit/main/README.md)]
 - Email: yuvanvenkatj@gmail.com
+- college name: Sri Ramanujar Engineering college
 
 ## ⚠ Limitations
 
